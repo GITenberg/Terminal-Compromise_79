@@ -1,0 +1,25 @@
+_repo: Terminal-Compromise_79
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schwartau, Winn
+    gutenberg_agent_id: '57'
+    url: http://www.gutenberg.org/2009/agents/57
+description: ''
+gutenberg_issued: '1993-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '79'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Computer security -- Fiction'
+- !lcsh 'Records -- Access control -- Fiction'
+- !lcsh 'Privacy, Right of -- Fiction'
+- !lcsh 'Didactic fiction'
+- GITenberg
+title: Terminal Compromise
+url: http://www.gutenberg.org/ebooks/79
